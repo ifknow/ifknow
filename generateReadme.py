@@ -4,31 +4,27 @@ from lxml import etree
 import html
 import re
 
-blogUrl = 'https://xindoo.blog.csdn.net/'
+blogUrl = 'https://gongshiyong.online/'
 
-headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36'} 
+headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4181.9 Safari/537.36'} 
 
 def addIntro(f):
 	txt = '''  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xindoo&show_icons=true&theme=graywhite"/>
 </p>
-<p align="center"> 9年技术博主，CSDN认证博客专家，新晋视频up主 </p>  
-<p align="center"> 曾在阿里做过2年运维+1年开发，现为某厂Java后端开发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于Java，对操作系统、网络、编译原理也有涉猎，目前正在写一门简易的脚本语言u-lang	 </p>  
+<p align="center"> 新❤技术博主，CSDN认证博客专家 </p>  
+<p align="center"> 现为某公司Java后端开发工程师，擅长 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 专注于Java，	 </p>  
 ''' 
 	f.write(txt)
 
 def addProjectInfo(f):
 	txt ='''
 ### 开源项目  
-- [eng-practices-cn](https://github.com/xindoo/eng-practices-cn)谷歌工程实践中文版	
-- [regex](https://github.com/xindoo/regex)Java实现的正则引擎表达式	
-- [redis](https://github.com/xindoo/redis) Redis中文注解版  
-- [slowjson](https://github.com/xindoo/slowjson) 用antlr实现的json解析器  
-- [leetcode](https://github.com/xindoo/leetcode) 我的Leetcode题解   
+
    
-[查看更多](https://github.com/xindoo/)	 
+[查看更多](https://gongshiyong.online/)	 
 	''' 
 	f.write(txt) 
 
@@ -48,7 +44,7 @@ def addBlogInfo(f):
 		item = '- [%s](%s)\n' % (title, url)
 		f.write(item)
 		cnt = cnt + 1
-	f.write('\n[查看更多](https://xindoo.blog.csdn.net/)\n')
+	f.write('\n[查看更多](https://gongshiyong.online/)\n')
 
 
 if __name__=='__main__':
