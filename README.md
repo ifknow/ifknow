@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 
 - [Redis 面试全攻略、面试题大集合](https://gongshiyong.online/2020/09/09/redis-interview)
 
+### 每日一写
+
+- [1、]()
 
 
 
