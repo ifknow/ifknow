@@ -15,29 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# spring-boot-examples
-
-
-------
-## 1、示例代码
-
-- [spring-boot-helloworld](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-helloworld)：SpringBoot框架简介
-- [spring-boot-redis](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-redis)：SpringBoot框架中集成RedisTemplate工具类，更加方便的使用Redis 
-- [spring-boot-scheduler](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-scheduler)：SpringBoot中关于定时任务的使用
-- [tk-mybatis-generator](https://github.com/ifknow/spring-boot-examples/tree/master/tk-mybatis-generator)：逆向生成工具
-- [spring-boot-mybatis](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-mybatis)：SpringBoot中使用tk-mybatis操作数据库
-- [spring-boot-banner](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-banner)：SpringBoot中支持自定义启动LOGO
-- [spring-boot-swagger](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-swagger)：SpringBoot使用swagger作为接口文档
-- [spring-boot-logback](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-logback)：SpringBoot使用logback作为日志输出
-- [spring-boot-fileupload](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-fileupload)：SpringBoot实现文件上传操作
-- [spring-boot-fileupload](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-fileupload)：SpringBoot实现文件上传操作
-- [spring-boot-shiro](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-shiro)：SpringBoot实现用户登录验证
-- [netty-helloworld](https://github.com/ifknow/spring-boot-examples/tree/master/netty-helloworld)：netty简介
-- [spring-boot-docker](https://github.com/ifknow/spring-boot-examples/tree/master/spring-boot-docker)：在docker中部署springboot项目（jar and war）
-
-
-
-## 2、学习文章
+## 学习文章
 
 ### SpringBoot系列
 
@@ -79,7 +57,7 @@ Here are some ideas to get you started:
 - [如何使用GitPages+Hexo搭建博客](https://gongshiyong.online/2020/09/01/gitpages-hexo/)
 
 
-## 3、个人博客
+## 个人博客
 
 [ifknow-个人博客](https://gongshiyong.online)
 
