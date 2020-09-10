@@ -69,9 +69,16 @@ Here are some ideas to get you started:
 
 - [Redis 面试全攻略、面试题大集合](https://gongshiyong.online/2020/09/09/redis-interview)
 
+### Nginx系列
+
+- [nginx简介和使用](https://gongshiyong.online/2020/09/10/nginx-description)
+
+
 ### 每日一写
 
-- [1、]()
+
+
+
 
 
 
